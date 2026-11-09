@@ -1,4 +1,10 @@
-# Hermes Status
+# Hermes Status — legacy v1 recipe
+
+> Superseded by the native v2 plugin and terminal companion in [README.md](README.md).
+> The hook-only implementation below does not cover gateway-backed Hermes CLI sessions.
+> Follow the current setup instructions on every machine running Hermes; do not enable
+> this old plugin alongside the v2 adapter.
+
 
 Makes Hermes Agent show up in the Herdr desktop app's Agents panel like Claude Code does: listed under Working / Idle / Blocked with the Hermes icon and name, and counted in space and tab status. Without it, Hermes appears as a plain `python3` or `zsh` terminal.
 

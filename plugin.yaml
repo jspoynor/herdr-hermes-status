@@ -1,0 +1,7 @@
+name: herdr-status
+version: "2.0.0"
+description: "Herdr agent recognition and terminal-side status for classic Hermes CLI sessions, locally and over SSH."
+license: MIT
+homepage: https://github.com/jspoynor/herdr-hermes-status
+tags: [herdr, terminal, status, ssh]
+python_runtime: external
